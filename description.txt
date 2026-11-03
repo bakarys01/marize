@@ -1,0 +1,1 @@
+objectif : une application mobile des alertes du bracelet (ma propre marque) des enfants, de les géolocaliser, avec des features mode school qui permet à l'enfant d'etre concentrer- control parental à distance.
